@@ -1,5 +1,5 @@
-# PIC 16B Homeworks
+# PIC 16B Homework
 
-## This Repo encompasses all of the homework I have completed for Python with Applications II 
+## This is a Repo for all of the homework I have completed for Python with Applications II (Spring 2024) 
 
-- HW1 - Data Visualization and Manipulation (Seaborn and Pandas) 
+- [HW1](HW1.ipynb) - Data Visualization and Manipulation (Seaborn and Pandas) 
